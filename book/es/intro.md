@@ -3,21 +3,21 @@
 Bienvenido a **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial**.
 
 ## ¿Qué es esto?
-Es el material del curso y una plantilla diseñada para que el profesorado de las **Facultades de Ciencias y de Ciencias Químicas de la USAL** pueda crear libros docentes interactivos de forma sencilla. La idea principal de esta plantilla es que sea lo suficientemente extensa para cubrir muchos casos de uso y que cada alumno la adapte a su propio curso, pero que a la vez esté lo suficientemente equipada para que se pueda usar de forma sencilla con la ayuda de asistentes de IA (como GitHub Copilot, Gemini, Claude, Codex, etc.) y con un editor de código como VS Code.
+Este es un espacio de muestra que ilustra la potencia didáctica de los libros interactivos de TeachBooks / Jupyter Book, diseñados para el profesorado de las **Facultades de Ciencias y de Ciencias Químicas de la USAL**. 
 
-## Contenido
-En este libro encontrarás:
-- [Tutoriales](01_tutorial/01_que_es_un_teachbook.md) para aprender a usar la plantilla
-- [Ejemplos por Grado](02_grados/grado_fisica/intro.md) para ver casos reales
-- Información sobre [cómo citar](92_como_citar.md) y [licencias](91_licencias.md)
+En esta configuración simplificada, hemos habilitado un único capítulo ilustrativo para mostrar cómo estructurar explicaciones científicas avanzadas combinando texto enriquecido, fórmulas matemáticas complejas con LaTeX y directivas interactivas de MyST.
+
+## Contenido Disponible
+
+- [El Teorema del Límite Central](01_teorema_limite_central.md): Un ejemplo práctico de redacción científica interactiva.
 
 ## Versión PDF
 
-También puedes descargar la versión imprimible del libro:
+También puedes descargar la versión imprimible y formateada del libro:
 
 - [Descargar PDF en español](../_static/teachbook_es.pdf)
 - [Download PDF in English](../_static/teachbook_en.pdf)
 
 ```{note}
-Este proyecto está diseñado para ser usado con **VS Code** y asistentes de **IA**.
+Este proyecto interactivo está optimizado para visualizarse en la web y compilarse a PDF conservando la máxima calidad tipográfica mediante LaTeX.
 ```
