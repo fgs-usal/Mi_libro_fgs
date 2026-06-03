@@ -1,15 +1,21 @@
 # Introduction
 
-Welcome to **Creating Electronic Books with Code and Artificial Intelligence Assistants**.
+Welcome to the **Solid State Physics Notes**.
 
 ## What is this?
-This is a sample workspace illustrating the pedagogical power of interactive TeachBooks / Jupyter Books designed for the teaching staff of the **Faculties of Sciences and Chemical Sciences at USAL**.
-
-In this simplified configuration, we have enabled a single illustrative chapter to demonstrate how to structure advanced scientific explanations by combining rich text, complex LaTeX mathematical formulas, and interactive MyST directives.
+This electronic book compiles the main topics and problems from the Solid State Physics course at the University of Salamanca (USAL). Here you will find detailed explanations and solved problems designed to facilitate learning and understanding of key concepts in the electronic structure of matter.
 
 ## Available Content
 
-- [The Central Limit Theorem](01_central_limit_theorem.md): A practical example of interactive scientific writing.
+This interactive edition includes the following topics and problems:
+
+- **1.1 Introduction**: Fundamental concepts of solid state physics.
+- **1.2 Calculation of Band Structure**: Models and methodologies to determine energy bands in solids.
+- **1.3 Tight Binding Method**: Theory and LCAO approximation.
+- **1.3 Problem: sp3 Model**: Application of the tight binding method in sp3 hybridizations.
+- **1.3 Problem: Graphene**: Study of the graphene band structure using Tight Binding.
+- **1.4 Pseudopotentials**: Fundamentals and usefulness of the pseudopotential approximation.
+- **1.4 Problem: Pseudopotential**: Practical application of the method in crystal lattices.
 
 ## PDF Version
 

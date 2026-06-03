@@ -1,9 +1,15 @@
 format: jb-book
 root: es/intro
 parts:
-  - caption: Capítulo de Muestra
+  - caption: Apuntes de Física de Estado Sólido
     chapters:
-      - file: es/01_teorema_limite_central
+      - file: es/1_1_Introduccion
+      - file: es/1_2_Calculo_Estructura_Bandas
+      - file: es/1_3_Tight_Binding
+      - file: es/1_3_prob_Modelo_sp3
+      - file: es/1_3_problema_grafeno
+      - file: es/1_4_Pseudopotencial
+      - file: es/1_4_ProblemaPseudopotencial
   - caption: Referencias
     chapters:
       - file: es/99_bibliografia

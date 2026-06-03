@@ -1,15 +1,21 @@
 # Introducción
 
-Bienvenido a **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial**.
+Bienvenido a los **Apuntes de Física de Estado Sólido**.
 
 ## ¿Qué es esto?
-Este es un espacio de muestra que ilustra la potencia didáctica de los libros interactivos de TeachBooks / Jupyter Book, diseñados para el profesorado de las **Facultades de Ciencias y de Ciencias Químicas de la USAL**. 
-
-En esta configuración simplificada, hemos habilitado un único capítulo ilustrativo para mostrar cómo estructurar explicaciones científicas avanzadas combinando texto enriquecido, fórmulas matemáticas complejas con LaTeX y directivas interactivas de MyST.
+Este libro electrónico recopila los temas y problemas principales del curso de Física de Estado Sólido de la Universidad de Salamanca (USAL). Aquí encontrarás explicaciones detalladas y problemas resueltos diseñados para facilitar el aprendizaje y la comprensión de los conceptos clave en la estructura electrónica de la materia.
 
 ## Contenido Disponible
 
-- [El Teorema del Límite Central](01_teorema_limite_central.md): Un ejemplo práctico de redacción científica interactiva.
+En esta edición interactiva se incluyen los siguientes temas y problemas:
+
+- **1.1 Introducción**: Conceptos fundamentales de la física de estado sólido.
+- **1.2 Cálculo de Estructura de Bandas**: Modelos y metodologías para determinar las bandas de energía en sólidos.
+- **1.3 Método de Tight Binding (Enlace Fuerte)**: Teoría y aproximación LCAO.
+- **1.3 Problema: Modelo sp3**: Aplicación del método de enlace fuerte en hibridaciones sp3.
+- **1.3 Problema: Grafeno**: Estudio de la estructura de bandas del grafeno mediante Tight Binding.
+- **1.4 Pseudopotenciales**: Fundamentos y utilidad de la aproximación de pseudopotenciales.
+- **1.4 Problema: Pseudopotencial**: Aplicación práctica del método en redes cristalinas.
 
 ## Versión PDF
 
