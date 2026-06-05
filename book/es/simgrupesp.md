@@ -621,7 +621,7 @@ de red cuadrada:
     ![Bandas de energía para una cristal basado en una red bidimensional
     cuadradra desde el punto $\Gamma$ al $Z$ a lo largo de un punto
     general $\vec{k}$. Lógicamenete, las bandas deben ser non
-    degeneratas](bangen.eps){#figes1}
+    degeneratas](bangen.png){#figes1}
 
     deducimos que dicho autovalor es doblemente degenerado; supongamos
     que sus autofunciones son de tipo $p_{x}$ y $p_{y}$ respectivamente,
@@ -642,7 +642,7 @@ de red cuadrada:
     zona del Brillouin para una cristal basado en una red bidimensional
     cuadradra. Hemos supuesto que en $\Gamma$ hay dos bandas de energía,
     una de tipo $\Gamma_{5}$, por tanto duplemente degenerata y otra de
-    tipo $\Gamma_{1}$, virtuosa, non degenerata](banirred.eps){#figes2}
+    tipo $\Gamma_{1}$, virtuosa, non degenerata](banirred.png){#figes2}
 
     Partamos de lo mismo: $E_{n}^{\Gamma 5}(\Gamma)$ en $\Gamma$ y
     admitamos que sus funciones de onda son de tipo $p_{x}$ o $p_{y}$.
