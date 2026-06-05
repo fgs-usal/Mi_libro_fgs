@@ -1,0 +1,10 @@
+format: jb-book
+root: es/intro
+parts:
+  - caption: Contenido
+    chapters:
+    - file: es/simgrupesp
+  - caption: Bibliografía
+    chapters:
+    - file: es/bibliografia
+

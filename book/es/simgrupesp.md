@@ -275,15 +275,12 @@ Dado un estado Bloch $|\psi_{k}>$ y el grupo $G_{\vec{k}}=\{M_{i}\}$,
 construyamos funciones de las representaciones irreducibles pequeñas de
 $G_{k}$ aplicando el teorema de la proyección:
 
-$$\begin{aligned}
- \psi^{\nu}_{\vec{k}}(\vec{r})&=&
-    \frac{l_{\nu}}{g_{0}}\sum_{i}\chi^{\nu}_{\vec{k}}(M_{i})^{*}
-    M_{i}\psi_{\vec{k}}(\vec{r}) \label{elas4} \\
-   &=&\frac{l_{\nu}}{g_{0}}\sum_{i}\chi^{\nu}_{\vec{k}}(M_{i})^{*}
-   \psi_{Mi\vec{k}}(\vec{r}) \label{elas2} \\
-   &=&\frac{l_{\nu}}{g_{0}}\sum_{i}\chi^{\nu}_{\vec{k}}(M_{i})^{*}
-   \psi_{\vec{k}}(M_{i}^{-1}\vec{r}) \label{elas3}
-\end{aligned}$$
+$$\psi^{\nu}_{\vec{k}}(\vec{r}) = \frac{l_{\nu}}{g_{0}}\sum_{i}\chi^{\nu}_{\vec{k}}(M_{i})^{*} M_{i}\psi_{\vec{k}}(\vec{r}) \label{elas4}$$
+
+$$= \frac{l_{\nu}}{g_{0}}\sum_{i}\chi^{\nu}_{\vec{k}}(M_{i})^{*} \psi_{Mi\vec{k}}(\vec{r}) \label{elas2}$$
+
+$$= \frac{l_{\nu}}{g_{0}}\sum_{i}\chi^{\nu}_{\vec{k}}(M_{i})^{*} \psi_{\vec{k}}(M_{i}^{-1}\vec{r}) \label{elas3}$$
+
 
 Estas funciones tienen la simetría traslacional, pues son funciones
 Bloch de la representación irreducible $\vec{k}$, y tienen la simetría
